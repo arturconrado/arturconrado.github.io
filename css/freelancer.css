@@ -9751,8 +9751,8 @@ a.text-dark:hover, a.text-dark:focus {
   top: 0;
   left: 0;
   transition: all 0.2s ease-in-out;
-  opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  opacity: 1;
+  background-color: rgba(26, 188, 156, 0.2);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -9783,7 +9783,7 @@ a.text-dark:hover, a.text-dark:focus {
   font-size: 3rem;
   line-height: 3rem;
   color: #1abc9c;
-  opacity: 1;
+  
 }
 
 .floating-label-form-group {
